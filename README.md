@@ -2,9 +2,7 @@
 There is a valid question coming from medical researchers: 
  - How to use AI in order to assess the difficulty of diagnosis.
 
-This project is an example of how to address a larger problem: classification
-
-The aims is to compare the difficulty of classification against outcomes of a neural network (NN).
+This project is an example of how to address a larger problem: classification. The aim is to compare the difficulty of classification against outcomes of a neural network (NN).
 An example of a NN used here is VGG16.
 
 Technically, VGG16, as many other NNs, computes a vector with K values,  enumerating the chance of the sample being in a particular class.
