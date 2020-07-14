@@ -12,7 +12,9 @@ K is the number of predefined classes
 
 The highest valuie (winner) is selected as the "output" of the network.
 The second, third, etc values are usually neglected.
-Intiution is:  as such values growing closer and closer to the winner, human scepticism should also grow: 
+
+
+Intiution is:  as such values grow closer and closer to the winner, human scepticism should also grow: 
  - Is the winner actually the final, strongest, concrete classification?
  
  The analysis of the runner-up classes may be used to reflect the difficulty of classification, and as a subproblem, difficulty of diagnosis.
