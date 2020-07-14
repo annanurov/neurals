@@ -28,5 +28,5 @@ https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586
 
 Requirements: Python 3 and the following imports
 
-torch, orch.nn, torch.autograd.Variable, torchvision.models, torchvision.transforms, torchvision.utils, numpy, scipy.misc, PIL.Image, json, matplotlib.pyplot
+torch, torch.nn, torch.autograd.Variable, torchvision.models, torchvision.transforms, torchvision.utils, numpy, scipy.misc, PIL.Image, json, matplotlib.pyplot
 
