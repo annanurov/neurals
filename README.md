@@ -1,6 +1,6 @@
 # neurals
-There is a valid question about difficulty of diagnosis: 
- - How to use AI in order to assess hte difficulty of diagnosis.
+There is a valid question coming from medical researchers: 
+ - How to use AI in order to assess the difficulty of diagnosis.
 
 This project is an example of how to address a larger problem: classification
 
