@@ -28,5 +28,3 @@ Requirements: Python 3 and the following imports
 
 torch, torch.nn, torch.autograd.Variable, torchvision.models, torchvision.transforms, torchvision.utils, numpy, scipy.misc, PIL.Image, json, matplotlib.pyplot
 
-# kerasology 
-Kerasology is a collection of Deep Learning samples implemented with tf.Keras and other libraries. Most programming may be converted to Keras (independent of Tensorflow) with enough ambition.
